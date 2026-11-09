@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version
+3,iPhone 15 Pro,1794210927503,2026-11-09_07-55-27,Europe/Rome,ios,1.68.1,86b30f06-c731-4ce3-a12b-54f7ea878da3,Accelerometer|Gyroscope|Orientation|Magnetometer|Annotation|MagnetometerUncalibrated|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10|10|10||10|10|10,false,27.0.1

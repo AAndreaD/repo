@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version
+3,iPhone 12 Pro,1794210958545,2026-11-09_07-55-58,Europe/Rome,ios,1.68.1,f22245e7-c424-48be-8976-07b656bfcd49,Accelerometer|Gyroscope|Orientation|Magnetometer|Annotation|MagnetometerUncalibrated|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10|10|10||10|10|10,false,26.4.1
