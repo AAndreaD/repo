@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dataset locale del laboratorio FIA
+/dataset/
+
+# File di sistema macOS
+.DS_Store
