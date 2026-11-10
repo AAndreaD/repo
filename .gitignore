@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
+*.py[cod]
 *$py.class
 
 # C extensions
@@ -153,6 +154,7 @@ activemq-data/
 .env
 .envrc
 .venv
+.venv/
 env/
 venv/
 ENV/
@@ -221,6 +223,10 @@ __marimo__/
 
 # Dataset locale del laboratorio FIA
 /dataset/
+/dataset_completo/
 
 # File di sistema macOS
 .DS_Store
+
+# Risultati e file generati
+/risultati/
